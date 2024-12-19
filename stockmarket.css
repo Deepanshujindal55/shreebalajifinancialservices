@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(backgroundimage.jpg);
+    /* background-color: gray; */
+    /* background-repeat: no-repeat; */
+    /* filter: blur(50px); */
+    /* height: 4544px */
+}
+#navbar{
+    margin-top: -50px;
+}
+#info1{
+    text-align: center;
+    color: white;
+    font-size: 75px;
+    font-style: italic ;
+}
